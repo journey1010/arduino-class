@@ -1,8 +1,8 @@
-# Arduino Practice Circuits 🔌💡
+# Arduino Practice Circuits 
 
 A collection of basic circuits and simulation files designed for the sole purpose of getting familiar, practicing, and learning the fundamentals of Arduino programming and electronics.
 
-## 🎯 Purpose
+##  Purpose
 The projects contained in this repository are **exclusively educational**. They serve as hands-on exercises to understand:
 - Core microcontroller programming logic using the Arduino IDE.
 - Electronic component wiring and simulation.
@@ -10,9 +10,9 @@ The projects contained in this repository are **exclusively educational**. They 
 
 ---
 
-## 📁 Projects Included
+##  Projects Included
 
-### 🚦 Traffic Light Simulator (`traffic_ligth`)
+###  Traffic Light Simulator (`traffic_ligth`)
 A classic starter project simulating a standard traffic light sequence. It teaches how to control multiple LED outputs with specific time delays.
 - **Source Code:** [traffic_ligth.ino](file:///home/journii/Documentos/SENATI/V%20%20-%20QUINTO/Curso%20IOT/Circuitos/traffic_ligth/traffic_ligth.ino)
 - **Simulation:** `taffic-ligth.sim1` (compatible with circuit simulators like SimulIDE)
